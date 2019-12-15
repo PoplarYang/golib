@@ -2,6 +2,6 @@ package golib
 
 import "fmt"
 
-func print(s string) {
+func Print(s string) {
     fmt.Println(s)
 }
